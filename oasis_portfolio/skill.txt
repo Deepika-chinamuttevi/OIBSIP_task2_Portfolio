@@ -1,0 +1,57 @@
+/*.skills .skills-content{
+    background: #333;
+    text-transform: uppercase;
+}*/
+
+/*.skills .skills-content .column{
+    width: calc(33% -50px);
+}
+.skills .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills .skills-content .right .info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 80%;
+    left: 0;
+    top: 0;
+    background: crimson;
+
+}
+.skills-content .right .Python::before{
+    width: 90%;
+}
+.skills-content .right .C::before{
+    width: 80%;
+}
+.skills-content .right .C++::before{
+    width: 80%;
+}
+.skills-content .right .Java::before{
+    width: 80%;
+}
+.skills-content .right .HTML::before{
+    width: 70%;
+}
+.skills-content .right .CSS::before{
+    width: 65%;
+}
+.skills-content .right .MySQL::before{
+    width: 80%;
+}*/
